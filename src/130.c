@@ -4,7 +4,7 @@
 
 int main()
 {
-    pid t pid;
+    pid_t pid;
 
     // 새 프로세스를 생성한다(fork)
     pid = fork();
